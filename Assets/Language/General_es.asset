@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 1bddf36ff881c5d4c8533445ffb36a91, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 387097883602321487
+  m_TableData:
+  - m_Id: 132740874240
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50066948096
+    m_Localized: Nuevo Juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3022951874560
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3057475190784
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3075493920768
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152719863644160
+    m_Localized: 'Puntos:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153763293233152
+    m_Localized: 'Record:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154198963978240
+    m_Localized: Fin del Juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154344523104256
+    m_Localized: Reiniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233891021053952
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233791968370688
+    m_Localized: Reiniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233723890622464
+    m_Localized: 'Record:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233720715534336
+    m_Localized: 'Puntos:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234267766022144
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234270655897600
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234272107126784
+    m_Localized: Efectos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235597570105344
+    m_Localized: Fin de Juego
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 387097883602321487
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00007974f48a0000

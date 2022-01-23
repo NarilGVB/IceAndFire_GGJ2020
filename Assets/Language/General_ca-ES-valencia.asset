@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_ca-ES-valencia
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ca-ES-valencia
+  m_SharedData: {fileID: 11400000, guid: 1bddf36ff881c5d4c8533445ffb36a91, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 132740874240
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152719863644160
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50066948096
+    m_Localized: Nou Xoc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3022951874560
+    m_Localized: Opcions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3057475190784
+    m_Localized: "Cr\xE9dits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3075493920768
+    m_Localized: Sortir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233720715534336
+    m_Localized: Punts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233723890622464
+    m_Localized: "R\xE9cord"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233791968370688
+    m_Localized: Reiniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233891021053952
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234267766022144
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234270655897600
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234272107126784
+    m_Localized: Efectes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235597570105344
+    m_Localized: Fin del xoc
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
